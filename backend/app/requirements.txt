@@ -1,6 +1,8 @@
+fastapi
+uvicorn
 youtube-transcript-api
 langchain-google-genai
 langchain-community
-pdfkit
 pytube
 markdown
+python-dotenv
